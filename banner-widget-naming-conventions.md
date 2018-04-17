@@ -13,7 +13,9 @@
 ## Naming Conventions for banners to be used in Extra Tools in the field Caption Custom Class 
 #### (These all relate to the way the text is styled inside banners)
 #### This field might get multiple classes separated by spaces. It would be normal to have this say something like 
-* “kids  swb-l  swb-multi-cta”
+```
+“kids  swb-l  swb-multi-cta”
+```
 
 
 * **.swb-l / .swb-r =>** Whether text is on left or right hand side of the .swb
