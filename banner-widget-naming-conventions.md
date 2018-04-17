@@ -2,14 +2,13 @@
 #### (These all relate to the way the banners themselves layout on the page regardless of how their text lays out.)
 ![Image of Banner widget level names](https://static.indigoimages.ca/2018/widget-level-names.jpg)
 
-```
 *.swb =>* Standard Width Banner. Main banner on a page.
 *.feat-list =>* A banner that takes of 50% of a standard layout and contains other banners inside as a list.
 *.feat-list-inner + .feat-list-inner-a/.feat-list-inner-b/.feat-list-inner-c =>* Inner banners inside featured lists usually containing a single product or idea. a/b/c denotes whether banner is 1st, 2nd, or 3rd.
 *.feat-prod + .feat-prod-l/.feat-prod-r =>* A banner that takes of 50% of a standard layout and also designation of whether is it on the right or left side of the page.
 *.feat-promo =>* Skinny banner that goes 100% of the width of a standard layout
 *.eb =>* Editorial blocks. 3 across banners at the bottom of many merchandised pages.
-```
+
 
 ## Naming Conventions for banners to be used in Extra Tools in the field Caption Custom Class 
 #### (These all relate to the way the text is styled inside banners)
