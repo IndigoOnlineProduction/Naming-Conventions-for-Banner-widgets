@@ -1,4 +1,4 @@
-## Naming Conventions for banners to be used on the banner widget
+## Naming Conventions for banners to be used on the *banner widget*
 #### (These all relate to the way the banners themselves layout on the page regardless of how their text lays out.)
 ![Image of Banner widget level names](https://static.indigoimages.ca/2018/widget-level-names.jpg)
 
@@ -10,9 +10,9 @@
 * **.eb =>** Editorial blocks. 3 across banners at the bottom of many merchandised pages.
 
 
-## Naming Conventions for banners to be used in Extra Tools in the field Caption Custom Class 
+## Naming Conventions for banners to be used in *Extra Tools* in the field Caption Custom Class 
 #### (These all relate to the way the text is styled inside banners)
-#### This field might get multiple classes separated by spaces. It would be normal to have this say something like 
+#### This field might get multiple classes separated by spaces. It would be normal to have this say something like: 
 ```
 “kids  swb-l  swb-multi-cta”
 ```
