@@ -27,7 +27,7 @@
 * **.feat-prod-centered / .feat-prod-70 / .feat-prod-heather / .feat-prod-2ctas =>** Denotes alternative feat-prod stylings. Can currently be viewed on Gifts page, Books dept page, Heather’s Picks, and Teen Books, respectively
 ![Image of Caption Custom Class](https://static.indigoimages.ca/2018/feat-prod-caption-class.jpg)
 
-* * **.white =>** Whether text will be white
+* **.white =>** Whether text will be white
 * **.gm / .books / .kids / .baby / .bargain =>** Denotes what department banner is used in. Will be used to do things like change all books pages underlines to a certain colour etc etc
 
 ## Naming Conventions for banners to be used in Extra Tools on individual CTAs
