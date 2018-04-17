@@ -16,16 +16,16 @@
 * “kids  swb-l  swb-multi-cta”
 
 
-### **.swb-l / .swb-r =>** Whether text is on left or right hand side of the .swb
+* **.swb-l / .swb-r =>** Whether text is on left or right hand side of the .swb
 ![Image of Caption Custom Class](https://static.indigoimages.ca/2018/swb-position-caption-class.jpg)
 
-### **.swb-multi-cta / .swb-one-cta =>** Whether CTAs will all line up and be same width or if there is one button and there will just be 30px of space on the left and right sides of the text
+* **.swb-multi-cta / .swb-one-cta =>** Whether CTAs will all line up and be same width or if there is one button and there will just be 30px of space on the left and right sides of the text
 ![Image of Caption Custom Class](https://static.indigoimages.ca/2018/swb-number-of-cta-caption-class.jpg)
 
-### **.feat-prod-centered / .feat-prod-70 / .feat-prod-heather / .feat-prod-2ctas =>** Denotes alternative feat-prod stylings. Can currently be viewed on Gifts page, Books dept page, Heather’s Picks, and Teen Books, respectively
+* **.feat-prod-centered / .feat-prod-70 / .feat-prod-heather / .feat-prod-2ctas =>** Denotes alternative feat-prod stylings. Can currently be viewed on Gifts page, Books dept page, Heather’s Picks, and Teen Books, respectively
 ![Image of Caption Custom Class](https://static.indigoimages.ca/2018/feat-prod-caption-class.jpg)
 
-### * **.white =>** Whether text will be white
+* * **.white =>** Whether text will be white
 * **.gm / .books / .kids / .baby / .bargain =>** Denotes what department banner is used in. Will be used to do things like change all books pages underlines to a certain colour etc etc
 
 ## Naming Conventions for banners to be used in Extra Tools on individual CTAs
